@@ -1,4 +1,4 @@
-mediapipe
 opencv-python
+mediapipe
 numpy
-pyttsx3
+tensorflow
